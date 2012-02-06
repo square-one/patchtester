@@ -6,13 +6,13 @@
 	>
 
 		<field name="org" type="text"
-			default="joomla"
+			default="square-one"
 			description="COM_PATCHTESTER_FIELD_ORG_DESC"
 			label="COM_PATCHTESTER_FIELD_ORG_LABEL"
 		/>
 
 		<field	name="repo" type="text"
-				default="joomla-cms"
+				default="square-one-cms"
 				description="COM_PATCHTESTER_FIELD_REPO_DESC"
 				label="COM_PATCHTESTER_FIELD_REPO_LABEL"
 		/>
